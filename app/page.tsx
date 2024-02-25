@@ -25,7 +25,7 @@ export default function Home() {
               ></iframe>
       
               <div className=" text-pink-500 font-bold  text-3xl mt-2">
-                I like me better<br></br> when I'm with you&#10084;
+                I like me better<br></br> when I'm with you
               </div>
               <div className=" justify-center flex mt-2">
               <video
@@ -38,7 +38,7 @@ export default function Home() {
               </div>
               <div className=" text-pink-500 font-bold  text-1xl mt-2">
                 When you're weak, I want you to know that I always support you
-                kub &#10084;
+                kub 
               </div>
             </div>
           </div>
